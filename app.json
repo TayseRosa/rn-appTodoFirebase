@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "appToDOFire",
+    "slug": "appToDOFire",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "appToDOFire"
+}
