@@ -4,11 +4,9 @@
 - [➡️ Demo](#️-demo)
 - [🛠 Sobre o projeto](#-sobre-o-projeto)
 - [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-  - [- [x] Firebase (Realtime Database)](#--x-firebase-realtime-database)
 - [📥 Como usar](#-como-usar)
-  - [### Autor](#-autor)
-
----
+- [🚀 Autor](#-autor)
+  
 
 # ➡️ Demo
 Link do projeto em funcionamento: 
@@ -38,7 +36,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [x] Async Await
 - [x] Icons (Feather)
 - [x] Firebase (Realtime Database)
----
+
+
+
 
 # 📥 Como usar
 ```js
@@ -57,10 +57,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ``` 
 
----
-
-### Autor
----
+# 🚀 Autor
 
 <a href="https://www.tayserosa.dev">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/31596454?v=4" width="100px;" alt="Tayse Rosa"/>
