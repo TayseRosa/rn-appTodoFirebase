@@ -37,9 +37,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [x] Icons (Feather)
 - [x] Firebase (Realtime Database)
 
-
-
-
 # 📥 Como usar
 ```js
 
@@ -60,7 +57,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 # 🚀 Autor
 
 <a href="https://www.tayserosa.dev">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/31596454?v=4" width="100px;" alt="Tayse Rosa"/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/31596454?v=4" width="100px;" alt="Tayse Rosa" style="border-radius:50%"/>
  <br />
  <sub><b>Tayse Rosa</b></sub></a> <a href="https://www.tayserosa.dev" title="Tayse Rosa">🚀</a>
 
