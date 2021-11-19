@@ -68,8 +68,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
  <sub><b>Tayse Rosa</b></sub></a> <a href="https://www.tayserosa.dev" title="Tayse Rosa">🚀</a>
 
 
-Feito com ❤️ por Tayse Rosa 👋🏽 Entre em contato!
+Feito com ❤️ por Tayse Rosa 🚀
+
+👋🏽 Entre em contato!
 
 ![Linkedin Badge](https://img.shields.io/badge/-TayseRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayse-rosa-3b683151/)[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TayseRosa/)
-<h4 align="center"> Desenvolvido por 🚀 Tayse Rosa 🌸 </h4>
-<h5 align="center"> Créditos: Treinamento Sujeito Programador </h5>
+
+<h5> Créditos: Treinamento Sujeito Programador </h5>
+
